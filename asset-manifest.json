@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://shubhamupadhay.github.io/csb-omm06/static/css/main.d19a115f.chunk.css",
+    "main.js": "https://shubhamupadhay.github.io/csb-omm06/static/js/main.c6b0cf0f.chunk.js",
+    "main.js.map": "https://shubhamupadhay.github.io/csb-omm06/static/js/main.c6b0cf0f.chunk.js.map",
+    "runtime-main.js": "https://shubhamupadhay.github.io/csb-omm06/static/js/runtime-main.bd768961.js",
+    "runtime-main.js.map": "https://shubhamupadhay.github.io/csb-omm06/static/js/runtime-main.bd768961.js.map",
+    "static/js/2.daaf30c4.chunk.js": "https://shubhamupadhay.github.io/csb-omm06/static/js/2.daaf30c4.chunk.js",
+    "static/js/2.daaf30c4.chunk.js.map": "https://shubhamupadhay.github.io/csb-omm06/static/js/2.daaf30c4.chunk.js.map",
+    "static/js/3.6275c5fd.chunk.js": "https://shubhamupadhay.github.io/csb-omm06/static/js/3.6275c5fd.chunk.js",
+    "static/js/3.6275c5fd.chunk.js.map": "https://shubhamupadhay.github.io/csb-omm06/static/js/3.6275c5fd.chunk.js.map",
+    "index.html": "https://shubhamupadhay.github.io/csb-omm06/index.html",
+    "static/css/main.d19a115f.chunk.css.map": "https://shubhamupadhay.github.io/csb-omm06/static/css/main.d19a115f.chunk.css.map",
+    "static/js/2.daaf30c4.chunk.js.LICENSE.txt": "https://shubhamupadhay.github.io/csb-omm06/static/js/2.daaf30c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd768961.js",
+    "static/js/2.daaf30c4.chunk.js",
+    "static/css/main.d19a115f.chunk.css",
+    "static/js/main.c6b0cf0f.chunk.js"
+  ]
+}
